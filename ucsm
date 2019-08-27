@@ -1,0 +1,20 @@
+{
+  "bookSourceGroup": "C级",
+  "bookSourceName": "UC书盟",
+  "bookSourceUrl": "https://www.uctxt.com-By Dark",
+  "enable": true,
+  "httpUserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko, By Black Prism) Chrome/99.0 Safari/537.36",
+  "ruleBookContent": "id.content@textNodes",
+  "ruleChapterList": "class.chapter-list@tag.dd@tag.a",
+  "ruleChapterName": "text",
+  "ruleContentUrl": "href",
+  "ruleIntroduce": "class.intro@textNodes",
+  "ruleSearchAuthor": "textNodes#.*]",
+  "ruleSearchKind": "",
+  "ruleSearchList": "class.item-list@tag.li",
+  "ruleSearchName": "tag.a@text",
+  "ruleSearchNoteUrl": "tag.a@href",
+  "ruleSearchUrl": "https://www.uctxt.com/modules/article/search.php?searchkey=searchKey|char=gbk",
+  "serialNumber": 1,
+  "weight": 0
+}
